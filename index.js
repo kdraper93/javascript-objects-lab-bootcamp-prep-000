@@ -4,8 +4,8 @@ var recipes = {
   dinner: "hot pocket"
 }
 
-function updateObjectWithKeyAndValue (object, key, value) {
-  recipes[key] = value
-  return recipes
+function updateObjectWithKeyAndValue (obj, key, value) {
+  obj[key] = value
+  return obj
 }
 
