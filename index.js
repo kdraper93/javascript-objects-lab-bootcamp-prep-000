@@ -12,3 +12,7 @@ function destructivelyUpdateObjectWithKeyAndValue (recipes, snack, apple) {
   recipes[snack] = apple;
   return recipes
 }
+
+function deleteFromObjectByKey (recipes, snack) {
+  
+}
