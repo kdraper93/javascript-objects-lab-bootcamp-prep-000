@@ -5,7 +5,7 @@ var recipes = {
 }
 
 function updateObjectWithKeyAndValue (obj, key, value) {
-  recipes[key] = value
+  recipes[snack] = apple
   return recipes
 }
 
