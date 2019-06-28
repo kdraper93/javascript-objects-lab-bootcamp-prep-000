@@ -1,5 +1,5 @@
 var recipes = { 
   breakfast: "cliff bar",
-  lunch: "hot fries"
+  lunch: "hot fries",
   dinner: "hot pocket"
 }
