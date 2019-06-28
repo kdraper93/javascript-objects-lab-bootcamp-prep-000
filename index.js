@@ -19,3 +19,4 @@ function deleteFromObjectByKey (recipes, snack) {
   delete newObj[snack]
   return newObj
 }
+
